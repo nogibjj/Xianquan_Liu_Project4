@@ -6,7 +6,7 @@
 
 Welcome! This is my fourth project for the Data Engineering System class at Duke.
 
-For this project, I created a microservice using FastAPI that can generate a random 6-digit password, pushed tested source code to Github, performed continuous integration with Github actions, and configured the build server to deploy changes on build (Continuous Delivery).
+For this project, I created a microservice using FastAPI that can generate a random 8-digit password, pushed tested source code to Github, performed continuous integration with Github actions, and configured the build server to deploy changes on build (Continuous Delivery).
 
 ## Ways to Setup Continuous Delivery:
 * Create ECR repository in AWS
